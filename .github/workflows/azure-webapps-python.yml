@@ -65,8 +65,14 @@ jobs:
         with:
           name: python-app
           path: |
-            .
-            !venv/
+            gradio_app.py
+            requirements.txt
+            board.py
+            position_to_image.py
+            record_game.py
+            setup_game.py
+            media/
+            model/
 
   deploy:
     permissions:
