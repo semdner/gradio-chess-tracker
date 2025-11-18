@@ -147,4 +147,4 @@ with gr.Blocks() as demo:
     # btn_print.click(print_mode, inputs=[image_updated, previous_img, current_img])
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(server_name="0.0.0.0", server_port=7860, share=False)
