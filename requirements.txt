@@ -1,13 +1,8 @@
 gradio
-twilio
 ultralytics
 torch
-torchvision
-torchaudio
 opencv-python-headless
-matplotlib
 numpy
-python-dotenv
 python-chess
 cairosvg
 gunicorn
