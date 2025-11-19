@@ -5,6 +5,8 @@ import os
 import chess
 import chess.pgn
 import io
+from fastapi import FastAPI
+import uvicorn
 from PIL import Image
 from setup_game import calibrate, init_board
 from record_game import record, generate_image
@@ -146,5 +148,10 @@ with gr.Blocks() as demo:
     btn_reset.click(lambda: None, outputs=[mode])
     # btn_print.click(print_mode, inputs=[image_updated, previous_img, current_img])
 
+
+app = FastAPI()
+app = gr.mount_gradio_app(app, demo, path="/")
+
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=7860, share=False)
+    # demo.launch(server_name="0.0.0.0", server_port=7860, share=False)
+    uvicorn.run(app, host="0.0.0.0", port=7860)
