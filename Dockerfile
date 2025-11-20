@@ -12,6 +12,11 @@ RUN apt-get update && apt-get install -y \
     libglib2.0-0 \
     libz-dev \
     libjpeg-dev \
+    libcairo2 \
+    libcairo2-dev \
+    libpango-1.0-0 \
+    libpangocairo-1.0-0 \
+    librsvg2-2 \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
