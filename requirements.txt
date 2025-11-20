@@ -1,11 +1,9 @@
-gradio==5.0.0
-ultralytics==8.3.0
+gradio
+ultralytics
 
-# PyTorch CPU versions (works well in Docker)
-torch==2.1.0+cpu
-torchvision==0.16.0+cpu
-torchaudio==2.1.0+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
 
 opencv-python-headless
 numpy
