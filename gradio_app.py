@@ -25,13 +25,13 @@ def process_frame(frame, mode, is_calibrated, board, corners, matrix, squares, i
     if mode == "calibrate":
         is_calibrated, corners, matrix, squares = calibrate(frame)
         if is_calibrated:
-            print("calibrated correctly")
+            print("calibrated correctly. Press the record button")
             board = init_board() # initalize board (empty board --> board with starting position)
             current_img = "media/starting_board.png" # set image of position
             image_updated = False
             gr.Success("Calibration Successful!")
         else:
-            print("Not calibrated correctly")
+            print("Not calibrated correctly. Check that the entire board and all pieces are visible")
 
         mode = None
     elif mode == "record":
@@ -107,19 +107,17 @@ with gr.Blocks() as demo:
 
 
     with gr.Sidebar():
-        gr.Markdown("## REALTIME CHESS TRACKER")
-        gr.Markdown("A neural network assisted system to track your chess games")
+        gr.Markdown("## CHESS TRACKER")
+        gr.Markdown("A system to track your chess games")
         gr.Markdown("### Game Recording")
         btn_calibrate = gr.Button("Calibrate")
         btn_record = gr.Button("Record")
-        btn_save = gr.Button("Save")
-        btn_reset = gr.Button("Reset", variant="stop")
+        # btn_reset = gr.Button("Reset", variant="stop")
         # btn_print = gr.Button("Print", variant="primary")
 
-        gr.Markdown("### Game Settings")
-        btn_settings = gr.Button("Game Settings")
-        txt_fen = gr.Textbox(board.value.fen(), label="FEN", show_copy_button=True, interactive=False)
-        txt_pgn = gr.Textbox("", label="PGN", show_copy_button=True, interactive=False)
+        gr.Markdown("### Position and Moves")
+        txt_fen = gr.Textbox(board.value.fen(), label="FEN", show_copy_button=True, interactive=False, lines = 3)
+        txt_pgn = gr.Textbox("", label="PGN", show_copy_button=True, interactive=False, lines = 15)
 
     with gr.Row():
         with gr.Column():
@@ -145,7 +143,7 @@ with gr.Blocks() as demo:
     # Update session state on button press
     btn_calibrate.click(lambda: "calibrate", outputs=[mode])
     btn_record.click(lambda: "record", outputs=[mode])
-    btn_reset.click(lambda: None, outputs=[mode])
+    # btn_reset.click(lambda: None, outputs=[mode])
     # btn_print.click(print_mode, inputs=[image_updated, previous_img, current_img])
 
 

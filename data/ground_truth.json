@@ -1,0 +1,2483 @@
+{
+    "data": [
+        {
+            "file_name": "WCC7642-3947104814_jpg.rf.066492e5a78525b006d5184515220437.jpg",
+            "bbox": [
+                124,
+                138,
+                748.7,
+                439.9
+            ],
+            "keypoints": [
+                123.667,
+                293.565,
+                489.771,
+                578.695,
+                871.969,
+                275.118,
+                495.442,
+                137.524
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "mb7110050zb_jpg.rf.86fd6eae05c41598accd5b9dfa4fc767.jpg",
+            "bbox": [
+                70,
+                46,
+                352.211,
+                213.1
+            ],
+            "keypoints": [
+                70.558,
+                255.954,
+                423.092,
+                259.291,
+                379.283,
+                45.814,
+                126.93,
+                45.677
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "mb9544_jpg.rf.eea1cb4764228a8fa9caf5e136925d9a.jpg",
+            "bbox": [
+                69,
+                36,
+                367.4,
+                166.3
+            ],
+            "keypoints": [
+                69.483,
+                199.537,
+                436,
+                201.912,
+                385.172,
+                40.552,
+                104.418,
+                36.8
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "868_png_jpg.rf.1cb2b0f5add7a8e79659bafc3b92d50f.jpg",
+            "bbox": [
+                43,
+                124,
+                675.624,
+                468.517
+            ],
+            "keypoints": [
+                127.5,
+                125.5,
+                45.329,
+                571.397,
+                716.479,
+                590.781,
+                595.963,
+                147.719
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "563_png_jpg.rf.809c0133d9d82ba3292a90bf47b1f3da.jpg",
+            "bbox": [
+                402,
+                578,
+                789.144,
+                415.868
+            ],
+            "keypoints": [
+                1192.116,
+                993.124,
+                1146.459,
+                577.795,
+                574.203,
+                578.293,
+                401.886,
+                992.588
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "613_png_jpg.rf.46a35c4f81c0c3b5106909f1f90360db.jpg",
+            "bbox": [
+                137,
+                156,
+                400.835,
+                236.494
+            ],
+            "keypoints": [
+                309.306,
+                155.745,
+                137.4,
+                270.2,
+                426.842,
+                391.909,
+                537.7,
+                219.6
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "camera_calibration_45_JPG_jpg.rf.6e06314207d26002a5b2a811d810ed2d.jpg",
+            "bbox": [
+                535,
+                156,
+                1111.715,
+                1109.111
+            ],
+            "keypoints": [
+                533.256,
+                187.263,
+                562.764,
+                1265.586,
+                1647.35,
+                1237.486,
+                1609.469,
+                154.126
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": true,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "722_png_jpg.rf.dba21d01b23cd63600a854ee93b12422.jpg",
+            "bbox": [
+                287,
+                488,
+                366.75,
+                177.467
+            ],
+            "keypoints": [
+                337.282,
+                488.889,
+                286.747,
+                662.641,
+                652.164,
+                665.049,
+                624.146,
+                490.287
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "539_png_jpg.rf.4eaae091c82d671cf7aa3cc5694cd9e9.jpg",
+            "bbox": [
+                537,
+                176,
+                1190.375,
+                690.633
+            ],
+            "keypoints": [
+                572.8,
+                179.6,
+                536.314,
+                867.216,
+                1728.741,
+                761.026,
+                1331.087,
+                174.717
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "28_mp4-0002_jpg.rf.777b305b27ff1e413cb3868ab958a202.jpg",
+            "bbox": [
+                514,
+                162,
+                997.804,
+                653.459
+            ],
+            "keypoints": [
+                1350.522,
+                162.778,
+                718.058,
+                186.059,
+                513.266,
+                788.894,
+                1512.468,
+                816.342
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "721_png_jpg.rf.0823fb06378d785a24ad16e1380648ba.jpg",
+            "bbox": [
+                93,
+                102,
+                275.1,
+                116.5
+            ],
+            "keypoints": [
+                130,
+                102.5,
+                92.8,
+                217.7,
+                367.6,
+                217.6,
+                324.5,
+                103.1
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "112816k-schachspiel-holz-kunststoff_jpg.rf.fc6104a3e5407ab2263ca6f694b5406c.jpg",
+            "bbox": [
+                159,
+                215,
+                1611.058,
+                847.167
+            ],
+            "keypoints": [
+                970.878,
+                1062.654,
+                1766.933,
+                494.4,
+                993.483,
+                217.056,
+                156.21,
+                480.421
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "879_png_jpg.rf.afe0a8fb8691dcb897574dbd80dc4ee2.jpg",
+            "bbox": [
+                432,
+                307,
+                1098.896,
+                591.301
+            ],
+            "keypoints": [
+                1530.119,
+                898.043,
+                1414.556,
+                307.303,
+                587.124,
+                307.078,
+                431.509,
+                892.15
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": true,
+                "shadows": true,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "740_png_jpg.rf.1235dcbcb0e0adc9fbfdc16f6b1d413f.jpg",
+            "bbox": [
+                615,
+                546,
+                798.094,
+                427.282
+            ],
+            "keypoints": [
+                618.497,
+                593.124,
+                626.768,
+                970.504,
+                1409.8,
+                887.739,
+                1203.092,
+                546.988
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "330_png_jpg.rf.137fc1ba6e38f4f216d0e2639a0f0a2d.jpg",
+            "bbox": [
+                55,
+                260,
+                1796.405,
+                760.258
+            ],
+            "keypoints": [
+                1850.411,
+                952.526,
+                1443.762,
+                262.479,
+                426.101,
+                296.692,
+                54.356,
+                1020.416
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "mxbhbt6kbt_jpg.rf.f069a32df4a8e74dbb097d233a5b740a.jpg",
+            "bbox": [
+                34,
+                55,
+                405.386,
+                187.521
+            ],
+            "keypoints": [
+                33.549,
+                239.649,
+                441.975,
+                242.365,
+                377.469,
+                58.32,
+                81.42,
+                54.245
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "043_png_jpg.rf.dde44428891436ddaeea5c134b93cd86.jpg",
+            "bbox": [
+                398,
+                300,
+                618.463,
+                391.763
+            ],
+            "keypoints": [
+                1017,
+                614,
+                922.783,
+                296.528,
+                431.091,
+                342.278,
+                397.9,
+                691.4
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "673_png_jpg.rf.3e0aaa8ff7e22141dd4d34a3a9f2ce5c.jpg",
+            "bbox": [
+                26,
+                107,
+                783.693,
+                460.655
+            ],
+            "keypoints": [
+                111.827,
+                113.43,
+                25.885,
+                567.146,
+                809.2,
+                547.4,
+                669.853,
+                105.238
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "mb7552050zb_jpg.rf.51f6c470dac78877a2d582a1ef6290ad.jpg",
+            "bbox": [
+                48,
+                28,
+                402.8,
+                235
+            ],
+            "keypoints": [
+                48.092,
+                263.33,
+                450.967,
+                261.313,
+                394.564,
+                27.933,
+                103.564,
+                29.335
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "909_png_jpg.rf.466f5ae17921f38da35b9774e0f9bc80.jpg",
+            "bbox": [
+                251,
+                995,
+                453.5,
+                239.726
+            ],
+            "keypoints": [
+                619.1,
+                1233.3,
+                703.9,
+                1050.4,
+                410.205,
+                993.659,
+                252.3,
+                1148.7
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "577_png_jpg.rf.ea23a9fcc515a2e11e2ee947097576ca.jpg",
+            "bbox": [
+                27,
+                309,
+                696.876,
+                390.999
+            ],
+            "keypoints": [
+                268.333,
+                310.571,
+                25.881,
+                600.317,
+                681.6,
+                701,
+                724.744,
+                353.739
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "668_png_jpg.rf.481534b490807118fd3715b1f062c135.jpg",
+            "bbox": [
+                16,
+                350,
+                913.821,
+                522.515
+            ],
+            "keypoints": [
+                15.051,
+                508.738,
+                330.9,
+                872.5,
+                931,
+                599.7,
+                519.668,
+                349.641
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true 
+            }
+        },
+        {
+            "file_name": "373_png_jpg.rf.ed213a07d6205c58b5b94310f52cf0c5.jpg",
+            "bbox": [
+                558,
+                613,
+                946.926,
+                363.994
+            ],
+            "keypoints": [
+                1504.7,
+                977.4,
+                1369.267,
+                712.544,
+                762.819,
+                613.275,
+                557.293,
+                809.473
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false 
+            }
+        },
+        {
+            "file_name": "dgt-smart-board-pc-brett-figuren-kunststoff-3_jpg.rf.53ade6f12a06fa9957dabadbf20ea971.jpg",
+            "bbox": [
+                78,
+                294,
+                644.1,
+                269.553
+            ],
+            "keypoints": [
+                76.333,
+                564.329,
+                723.392,
+                560.729,
+                666.574,
+                292.931,
+                130.658,
+                298.442
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false 
+            }
+        },
+        {
+            "file_name": "671_png_jpg.rf.5f099ed24e125c60f1ad4eafa1f6345f.jpg",
+            "bbox": [
+                212,
+                189,
+                657.147,
+                265.109
+            ],
+            "keypoints": [
+                213.6,
+                453.6,
+                869.6,
+                452,
+                719.7,
+                191.9,
+                330.3,
+                188.6
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "dgt-smart-board-pc-brett-zb-figuren-kunststoff-2_jpg.rf.be570ac76c75a94e3570e82e94a6c40b.jpg",
+            "bbox": [
+                74,
+                264,
+                635.1,
+                280.2
+            ],
+            "keypoints": [
+                73.3,
+                298.803,
+                137.825,
+                544.513,
+                710.392,
+                495.876,
+                554.309,
+                263.488
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "685_png_jpg.rf.b41e7d7067e6cfaf878be77abd224f68.jpg",
+            "bbox": [
+                164,
+                60,
+                443.026,
+                298.3
+            ],
+            "keypoints": [
+                605.3,
+                199.6,
+                404.6,
+                60.3,
+                164.843,
+                142.185,
+                291.783,
+                357.987
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "509_png_jpg.rf.8a32241071d7e392902cbd5f3b84d40c.jpg",
+            "bbox": [
+                602,
+                641,
+                596.423,
+                173.134
+            ],
+            "keypoints": [
+                649.4,
+                641.2,
+                601.2,
+                814.1,
+                1199.183,
+                814.067,
+                1101.9,
+                646.2
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "709_png_jpg.rf.66ba4bada57c5c4de0bc3404fd911a80.jpg",
+            "bbox": [
+                495,
+                513,
+                1054.783,
+                415.421
+            ],
+            "keypoints": [
+                495,
+                598.6,
+                705.524,
+                927.408,
+                1550.833,
+                773.656,
+                1146.717,
+                512.604
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "112816-schachspiel-holz_jpg.rf.95a26b916bca0c58fa069492398d20e3.jpg",
+            "bbox": [
+                124,
+                239,
+                1665.605,
+                828.608
+            ],
+            "keypoints": [
+                965.015,
+                1064.968,
+                1786.3,
+                508,
+                931.798,
+                240.972,
+                126.056,
+                492.703
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "100_png_jpg.rf.5e2f89657f3819b717e1ab545fd71e1c.jpg",
+            "bbox": [
+                132,
+                221,
+                742.988,
+                239.657
+            ],
+            "keypoints": [
+                310.2,
+                220.8,
+                131.6,
+                447,
+                874.8,
+                460.3,
+                828.794,
+                230.335
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "655_png_jpg.rf.df4f321d0d7e118c05ee5879de5d00d8.jpg",
+            "bbox": [
+                70,
+                218,
+                476.7,
+                254.3
+            ],
+            "keypoints": [
+                404.75,
+                218.065,
+                69.625,
+                249.334,
+                141.749,
+                472.804,
+                547.428,
+                420.964
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "477_png_jpg.rf.e8e29a8803f7656881f0afab968f8cfe.jpg",
+            "bbox": [
+                245,
+                855,
+                547.526,
+                316.706
+            ],
+            "keypoints": [
+                244.307,
+                1169.625,
+                792.727,
+                1147.057,
+                704.709,
+                856.484,
+                274.21,
+                868.897
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "014_png_jpg.rf.76309af8106d57b5b57fd24631bb989e.jpg",
+            "bbox": [
+                158,
+                102,
+                412.064,
+                303.178
+            ],
+            "keypoints": [
+                569.5,
+                347.5,
+                457.5,
+                104,
+                178,
+                112,
+                164.5,
+                400
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "611_png_jpg.rf.bbc46ed5e0b1f8bed1632979b5495df7.jpg",
+            "bbox": [
+                662,
+                628,
+                712.568,
+                302.403
+            ],
+            "keypoints": [
+                1377.4,
+                849.8,
+                1161.55,
+                628.012,
+                756.4,
+                655.4,
+                666.9,
+                927.1
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "349_png_jpg.rf.9529be00eb285c70d79704fef31d3517.jpg",
+            "bbox": [
+                184,
+                249,
+                1505.225,
+                729.033
+            ],
+            "keypoints": [
+                421.291,
+                285.819,
+                184.092,
+                978.234,
+                1688.883,
+                904.69,
+                1396.12,
+                250.691
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "schachspiel-gruen-weiss-komplett-jpg_jpg.rf.07e1d88b5e5cdcd68b54dd2b50e94864.jpg",
+            "bbox": [
+                316,
+                286,
+                1462.473,
+                984.015
+            ],
+            "keypoints": [
+                627.598,
+                1268.655,
+                1779.025,
+                670.033,
+                1101.62,
+                285.627,
+                314.741,
+                482.1
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "935_png_jpg.rf.cfda68ff75f34da433a816f46ea83b02.jpg",
+            "bbox": [
+                29,
+                38,
+                696.611,
+                862.3
+            ],
+            "keypoints": [
+                725.7,
+                37.5,
+                164.751,
+                288.769,
+                29.041,
+                899.297,
+                682.911,
+                884.379
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "056_png_jpg.rf.d0c747392f53212e6abf0723aa18cc8b.jpg",
+            "bbox": [
+                88,
+                371,
+                470.516,
+                178.422
+            ],
+            "keypoints": [
+                557.452,
+                548.899,
+                492.728,
+                375.273,
+                138.88,
+                371.498,
+                89.454,
+                544.858
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "mxbhbt7_jpg.rf.961022041681479fd029b468d25375cb.jpg",
+            "bbox": [
+                49,
+                72,
+                400.915,
+                151.17
+            ],
+            "keypoints": [
+                49.295,
+                223.543,
+                451.218,
+                222.838,
+                403.974,
+                72.618,
+                102.885,
+                76.85
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "5_mp4-0007_jpg.rf.0c0b3827ad774bc4fe5b15782e6005be.jpg",
+            "bbox": [
+                214,
+                115,
+                335.4,
+                252.246
+            ],
+            "keypoints": [
+                493.272,
+                114.911,
+                248.333,
+                121.111,
+                214.444,
+                362.222,
+                549.5,
+                367.1
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "897_png_jpg.rf.2a099934965cee7e49a2c1e95adfa03a.jpg",
+            "bbox": [
+                70,
+                672,
+                965.594,
+                653.826
+            ],
+            "keypoints": [
+                1035.6,
+                814.9,
+                460.445,
+                672.477,
+                71.299,
+                1036.258,
+                765.586,
+                1325.866
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "069_png_jpg.rf.e3fac6b21c67111fee217909c3397aa7.jpg",
+            "bbox": [
+                394,
+                271,
+                569.356,
+                416.033
+            ],
+            "keypoints": [
+                963,
+                477.9,
+                710.832,
+                269.543,
+                393.9,
+                390.3,
+                587.8,
+                685.3
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "717_png_jpg.rf.4eb8590228a8e29921218a8738633c99.jpg",
+            "bbox": [
+                460,
+                204,
+                1055.345,
+                675.22
+            ],
+            "keypoints": [
+                612.094,
+                206.659,
+                463.537,
+                876.852,
+                1513.6,
+                879.312,
+                1326.345,
+                218.074
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "mb9543kwzb_jpg.rf.9c6f76b2c19f572db4fdab3a7da61f74.jpg",
+            "bbox": [
+                72,
+                43,
+                362.3,
+                131.5
+            ],
+            "keypoints": [
+                72.442,
+                172.847,
+                433.083,
+                174.247,
+                396.55,
+                44.407,
+                110.317,
+                43.133
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "616_png_jpg.rf.952a0a098111756d3a164130615af07c.jpg",
+            "bbox": [
+                680,
+                699,
+                622.3,
+                291
+            ],
+            "keypoints": [
+                677.5,
+                742.9,
+                789.5,
+                992.4,
+                1304.6,
+                863.3,
+                1041.7,
+                698.7
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "598_png_jpg.rf.f402c237273a58adf1080a07f1ca362d.jpg",
+            "bbox": [
+                481,
+                234,
+                1125.339,
+                607.171
+            ],
+            "keypoints": [
+                1605.728,
+                822.619,
+                1360.485,
+                234.338,
+                638.202,
+                237.508,
+                481.4,
+                841.8
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "574_png_jpg.rf.439d0f802f607e6b9db9fb10ea823170.jpg",
+            "bbox": [
+                694,
+                601,
+                469.559,
+                269.9
+            ],
+            "keypoints": [
+                755.81,
+                611.738,
+                693.091,
+                872.613,
+                1166.665,
+                851.252,
+                1083.494,
+                599.921
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "924_png_jpg.rf.a3f00a200483cb5268e55d21fe34092e.jpg",
+            "bbox": [
+                170,
+                28,
+                945.2,
+                667.917
+            ],
+            "keypoints": [
+                1115.482,
+                266.611,
+                642,
+                28.8,
+                169.8,
+                270.3,
+                628.3,
+                696.7
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "517_png_jpg.rf.8ca93534583b1edb83481a2f9c34b29d.jpg",
+            "bbox": [
+                519,
+                505,
+                600.165,
+                387.05
+            ],
+            "keypoints": [
+                744.7,
+                505.3,
+                518.574,
+                770.509,
+                1042.273,
+                893.101,
+                1118.3,
+                560.4
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "926_png_jpg.rf.e4f7454f6c466711197a0acf3521d3b2.jpg",
+            "bbox": [
+                9,
+                15,
+                559.446,
+                608.808
+            ],
+            "keypoints": [
+                10.2,
+                621.9,
+                552.602,
+                609.557,
+                566.408,
+                16.36,
+                97.546,
+                150.529
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "864_png_jpg.rf.e21baeb2c830546866b15d04307aa2c8.jpg",
+            "bbox": [
+                442,
+                224,
+                1154.238,
+                781.003
+            ],
+            "keypoints": [
+                571.985,
+                226.202,
+                442.422,
+                1004.971,
+                1595.543,
+                994.057,
+                1374.315,
+                250.361
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "dgt-smart-board-pc-brett-ohne-figuren-und-software-2_jpg.rf.afb4fb939a5389d367d0448b4ce651c1.jpg",
+            "bbox": [
+                63,
+                242,
+                648.5,
+                318.8
+            ],
+            "keypoints": [
+                61.958,
+                310.208,
+                183.1,
+                561.788,
+                713.05,
+                473.827,
+                523.3,
+                240.09
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "471_png_jpg.rf.4d12a54edd07016a289e2d2bdfe33b49.jpg",
+            "bbox": [
+                201,
+                178,
+                1139.505,
+                681.007
+            ],
+            "keypoints": [
+                1234.452,
+                177.298,
+                449.653,
+                179.002,
+                202.595,
+                854.992,
+                1342.244,
+                858.502
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "727_png_jpg.rf.32dc9c84ffd0fbc105a47e9afc7e19d5.jpg",
+            "bbox": [
+                596,
+                595,
+                819.3,
+                476.891
+            ],
+            "keypoints": [
+                917.217,
+                595.141,
+                593.789,
+                837.943,
+                1256.177,
+                1073.246,
+                1416.658,
+                709.832
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "mx9548_jpg.rf.c1e8e38f8960abaa92de4036ed34d76e.jpg",
+            "bbox": [
+                72,
+                81,
+                347.3,
+                129.3
+            ],
+            "keypoints": [
+                71.506,
+                208.957,
+                418.782,
+                210.015,
+                381.763,
+                80.954,
+                117.34,
+                81.659
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "612_png_jpg.rf.e9f2827275a177e2bea611016a560c10.jpg",
+            "bbox": [
+                14,
+                48,
+                348.4,
+                222.306
+            ],
+            "keypoints": [
+                184.67,
+                47.152,
+                13.793,
+                125.862,
+                191.7,
+                270.2,
+                362.107,
+                129.404
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "schachbrett-holz-mahagoni-premium-fg-58mm-mit-zahlen-und-buchstaben-0-jpg_jpg.rf.c65a88510200cf1148a2459dcd0b9872.jpg",
+            "bbox": [
+                44,
+                172,
+                501.6,
+                243.6
+            ],
+            "keypoints": [
+                97.95,
+                417.013,
+                547.908,
+                334.593,
+                352.917,
+                171.423,
+                42.942,
+                189.381
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "mb7104045_jpg.rf.12a2475cfb158bad350247aaffc7739e.jpg",
+            "bbox": [
+                69,
+                31,
+                361.4,
+                127.2
+            ],
+            "keypoints": [
+                67.633,
+                157.446,
+                431.558,
+                158.927,
+                382.767,
+                32.004,
+                103.59,
+                32.104
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "572_png_jpg.rf.94b8ee91471986def1fdf8c1acd215b3.jpg",
+            "bbox": [
+                631,
+                628,
+                554.608,
+                329
+            ],
+            "keypoints": [
+                1185.083,
+                956.145,
+                1107.348,
+                628.688,
+                736.698,
+                628.309,
+                629.782,
+                949.237
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "934_png_jpg.rf.a73a249475135fe852444dfc630a021c.jpg",
+            "bbox": [
+                34,
+                16,
+                462.174,
+                269.247
+            ],
+            "keypoints": [
+                495.6,
+                284.9,
+                452,
+                17.8,
+                145.9,
+                33.5,
+                36.936,
+                275.153
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "6_mp4-0009_jpg.rf.d48cd91f3f16536936c1743d7aa483ec.jpg",
+            "bbox": [
+                31,
+                21,
+                334.37,
+                251.534
+            ],
+            "keypoints": [
+                309.667,
+                21.333,
+                66,
+                27.667,
+                31.667,
+                267.667,
+                365.333,
+                272
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "260_png_jpg.rf.fcd946680db356a2ebd740b5031c5f9f.jpg",
+            "bbox": [
+                230,
+                194,
+                1670.83,
+                476.707
+            ],
+            "keypoints": [
+                553.595,
+                194.033,
+                229.187,
+                661.168,
+                1902.078,
+                672.29,
+                1438.038,
+                205.645
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "657_png_jpg.rf.b9560b7c680861f0a350006d1a7dba59.jpg",
+            "bbox": [
+                403,
+                191,
+                1137.892,
+                471.879
+            ],
+            "keypoints": [
+                1541.446,
+                664.787,
+                1346.003,
+                191.702,
+                673.225,
+                212.002,
+                401.371,
+                663.279
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "112_png_jpg.rf.8d3ac3ad6cafdfb4827ed40f1b52e8b8.jpg",
+            "bbox": [
+                116,
+                33,
+                832.052,
+                582.761
+            ],
+            "keypoints": [
+                946.924,
+                290.445,
+                554.649,
+                34.057,
+                115.7,
+                202.9,
+                457.975,
+                612.153
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "690_png_jpg.rf.0b7c0f948199de165a774d060e8974e4.jpg",
+            "bbox": [
+                651,
+                772,
+                579.764,
+                248.095
+            ],
+            "keypoints": [
+                710.1,
+                778.1,
+                652.703,
+                1019.83,
+                1230.9,
+                1007.7,
+                1160.573,
+                772.08
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "541_png_jpg.rf.9839f6765f5799b0e3f062369bbaac8c.jpg",
+            "bbox": [
+                560,
+                384,
+                1235.29,
+                688.638
+            ],
+            "keypoints": [
+                629.4,
+                384.2,
+                559.868,
+                1072.67,
+                1797,
+                982.6,
+                1364.149,
+                382.771
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "mb7232050_jpg.rf.250c393e5af92ebca937e7b30032c784.jpg",
+            "bbox": [
+                46,
+                29,
+                405.6,
+                235.5
+            ],
+            "keypoints": [
+                45.108,
+                264.365,
+                451.567,
+                263.395,
+                395.6,
+                28.366,
+                102.575,
+                29.074
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "phpdwNqKH_jpg.rf.604451704be3fa06f8b594bd89c076eb.jpg",
+            "bbox": [
+                917,
+                904,
+                671.909,
+                89.652
+            ],
+            "keypoints": [
+                917.368,
+                911.675,
+                934.4,
+                992.9,
+                1586.975,
+                983.781,
+                1494.8,
+                902.982
+            ]
+        },
+        {
+            "file_name": "597_png_jpg.rf.239473682533b5c001fc09c90075249f.jpg",
+            "bbox": [
+                50,
+                93,
+                974.739,
+                661.553
+            ],
+            "keypoints": [
+                563.655,
+                92.693,
+                50.675,
+                290.119,
+                467.316,
+                752.356,
+                1017.493,
+                353.329
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "895_png_jpg.rf.bc5d19941773e11506e030d6299742ca.jpg",
+            "bbox": [
+                174,
+                96,
+                826.947,
+                530.966
+            ],
+            "keypoints": [
+                911,
+                95.6,
+                308.576,
+                113.862,
+                173.913,
+                626.613,
+                999.91,
+                615.054
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": true,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "rollbares-schachbrett-holz-2_png_jpg.rf.96dc3ea9248b207e9c703d9afb2e34b9.jpg",
+            "bbox": [
+                122,
+                229,
+                712.792,
+                490.678
+            ],
+            "keypoints": [
+                118.762,
+                721.24,
+                836.05,
+                718.438,
+                726.117,
+                230.353,
+                195.728,
+                228.334
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": true,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "651_png_jpg.rf.43cec24c3ae90a409b89ba7dc23075dc.jpg",
+            "bbox": [
+                234,
+                258,
+                1123.491,
+                468.195
+            ],
+            "keypoints": [
+                1360.607,
+                712.133,
+                1162.461,
+                258.204,
+                494.06,
+                289.829,
+                233.644,
+                726.529
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "513_png_jpg.rf.8e8267cb74e9c2cbfb8fb19146ef73f3.jpg",
+            "bbox": [
+                707,
+                655,
+                529.183,
+                341.609
+            ],
+            "keypoints": [
+                1235.271,
+                996.716,
+                1186.535,
+                654.764,
+                767.164,
+                659.805,
+                704.093,
+                997.405
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "546_png_jpg.rf.a23c3f61c00450f508408943dec157e5.jpg",
+            "bbox": [
+                303,
+                314,
+                693.289,
+                385.8
+            ],
+            "keypoints": [
+                416.1,
+                314,
+                302.861,
+                697.482,
+                995.322,
+                699.496,
+                852.6,
+                322.9
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": true,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "534_png_jpg.rf.3ad0b6e1552a37eeeb34654f4edbbf1f.jpg",
+            "bbox": [
+                510,
+                629,
+                593.261,
+                255.541
+            ],
+            "keypoints": [
+                1104.923,
+                856.455,
+                1035.6,
+                627.7,
+                589.216,
+                645.412,
+                509.7,
+                884.8
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": false,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "376_png_jpg.rf.d76b795c51e0ceeb735e74a62e6888b3.jpg",
+            "bbox": [
+                237,
+                61,
+                831.398,
+                811.551
+            ],
+            "keypoints": [
+                621.9,
+                871.9,
+                1068.3,
+                452.8,
+                695.3,
+                60.7,
+                237.1,
+                371.4
+            ],
+            "conditions": {
+                "pieces": false,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": false,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "540_png_jpg.rf.905b38696f25a500a950c2036fc94eff.jpg",
+            "bbox": [
+                566,
+                386,
+                1234.415,
+                687.163
+            ],
+            "keypoints": [
+                634.063,
+                386.563,
+                565,
+                1074.063,
+                1802.5,
+                985,
+                1368.125,
+                384.375
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "441_png_jpg.rf.edeecf9e486f5426a6b764ba8a25ec4b.jpg",
+            "bbox": [
+                752,
+                650,
+                453.7,
+                264.7
+            ],
+            "keypoints": [
+                792.2,
+                652.9,
+                750.8,
+                916.3,
+                1205.6,
+                911.2,
+                1139.4,
+                651
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": true,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "377_png_jpg.rf.6f4e41d3b850857d9f003e43b0c864fc.jpg",
+            "bbox": [
+                595,
+                698,
+                730.397,
+                288.098
+            ],
+            "keypoints": [
+                1324.786,
+                984.602,
+                1233.807,
+                699.788,
+                711.648,
+                699.005,
+                594.656,
+                985.75
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": true,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "886_png_jpg.rf.e9d182d612a665e0bf316c48960f2f78.jpg",
+            "bbox": [
+                408,
+                221,
+                983.952,
+                575.269
+            ],
+            "keypoints": [
+                510.1,
+                221.8,
+                408.175,
+                796.632,
+                1391,
+                794.2,
+                1290.282,
+                225.449
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": false,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        },
+        {
+            "file_name": "496_png_jpg.rf.9732f00219e2d1e704b07e1b7daeffab.jpg",
+            "bbox": [
+                168,
+                448,
+                809.165,
+                1095.083
+            ],
+            "keypoints": [
+                169.704,
+                1002.797,
+                765.834,
+                1545.498,
+                976,
+                949.3,
+                569.799,
+                450.108
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": true,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": false
+            }
+        },
+        {
+            "file_name": "578_png_jpg.rf.4d7d1d337daf80d913ccd1de25b3325c.jpg",
+            "bbox": [
+                300,
+                569,
+                947.4,
+                509.9
+            ],
+            "keypoints": [
+                685.2,
+                568,
+                297.8,
+                901.6,
+                1062.472,
+                1080,
+                1247.4,
+                654.7
+            ],
+            "conditions": {
+                "pieces": true,
+                "occlusion": false,
+                "overexposed": false,
+                "underexposed": false,
+                "shadows": false,
+                "neutral_background": false,
+                "rotated": true,
+                "large_board_border": true,
+                "steep_view": true
+            }
+        }
+    ]
+}

@@ -219,7 +219,6 @@ def check_starting_position(piece_coordinate_mapping):
 
 
 def calibrate(frame):
-
     # SEGMENT THE CHESSBOARD, CREATE A CONTOUR AND REDUCE THE CONTOUR POINTS TO THE FOUR CORNER POINTS
     
     seg_chessboard_results = chessboard_seg_model.predict(frame, conf=0.9)
