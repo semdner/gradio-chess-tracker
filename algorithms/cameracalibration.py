@@ -4,9 +4,6 @@ import glob
 import os
 from matplotlib import pyplot as plt
 
-PATH_TO_IMAGES = "/home/max/Repositories/chessboard_metrics/images"
-IMAGES = os.listdir(PATH_TO_IMAGES)
-
 def camera_calibration(path_to_image, start_pos):
     if start_pos:
         chessboard = (3, 7)
@@ -93,8 +90,3 @@ def camera_calibration(path_to_image, start_pos):
         corrected_corners = corrected_corners / 0.25
 
     return corrected_corners
-
-
-if __name__ == "__main__":
-    for image in IMAGES:
-        camera_calibration(f"{PATH_TO_IMAGES}/{image}", False)
