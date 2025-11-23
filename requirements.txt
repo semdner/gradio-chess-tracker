@@ -7,10 +7,14 @@ torchvision
 torchaudio
 
 opencv-python-headless
+matplotlib
 numpy
+scipy
+scikit-learn
 pillow
 python-chess
 cairosvg
 fastapi
 uvicorn[standard]
 gunicorn
+ipykernel
