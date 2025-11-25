@@ -157,3 +157,5 @@ Dannach muss im Browser `http://127.0.0.1:7860/` geöffnet werden und die App ka
 5. Dannach den "Calibration"-Button drücken um die Kalibrierung zu starten. Wenn das Schachbrett in der Startposition als Bild erscheint ist die Kalibierung erfolgreich.
 
 6. Dannach auf den "Record"-Button Drücken und den ersten Zug spielen (Die Zugerkennung kann von wenigen Sekunden bis etwa 1 Minute dauern). Sobald das Bild mit der neuen Position erscheint kann der nächst Zug gespielt werden.
+
+https://github.com/user-attachments/assets/6a1593af-ef23-44fc-9224-c6e2e9983f07
